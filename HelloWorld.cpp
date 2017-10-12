@@ -3,9 +3,14 @@
 
 #include "stdafx.h"
 
+#include <iostream>
 
 int main()
 {
+
+	std::cout << "Hello world\n";
+	std::cin;
+
     return 0;
 }
 
